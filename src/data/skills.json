@@ -1,0 +1,22 @@
+[
+  {
+    "id": "app_dev",
+    "name": "Application Development",
+    "tech": "Kotlin, Java, C++, Compose"
+  },
+  {
+    "id": "systems",
+    "name": "Systems & ROMs",
+    "tech": "C++, C, Java, Shell"
+  },
+  {
+    "id": "web",
+    "name": "Frontend Web",
+    "tech": "HTML, CSS, JS, React, Next.js, Vite, Tailwind CSS"
+  },
+  {
+    "id": "tools",
+    "name": "Tools",
+    "tech": "Python, Git, GitHub Actions"
+  }
+]

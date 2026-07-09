@@ -1,0 +1,30 @@
+[
+  {
+    "id": "zimusic",
+    "title": "ZiMusic",
+    "description": "A powerful music player forked from ViMusic. Features word-level synced lyrics, a custom audio enhancing pipeline, and Spotify integration.",
+    "note": "Kotlin • Android",
+    "url": "https://github.com/Jigen-Ohtsusuki/ZiMusic"
+  },
+  {
+    "id": "neogram",
+    "title": "NeoGram",
+    "description": "An enhanced Telegram fork focusing on a refined user interface and powerful new features for power users.",
+    "note": "Java/Kotlin • Android",
+    "url": "https://github.com/Jigen-Ohtsusuki/NeoGram"
+  },
+  {
+    "id": "rom",
+    "title": "Project Stratum",
+    "description": "An innovative custom Android ROM featuring deep AOSP framework modifications, including Nothing OS-style Quick Settings, Glassmorphism UI elements, and a redesigned Settings dashboard.",
+    "note": "C++ • Android ROM",
+    "url": "https://github.com/project-stratum"
+  },
+  {
+    "id": "cnn",
+    "title": "CNN Classification",
+    "description": "An initial implementation of a Convolutional Neural Network (CNN) that classifies images of Cats and Dogs.",
+    "note": "Python • Machine Learning",
+    "url": "https://github.com/Jigen-Ohtsusuki/CNN_Classification"
+  }
+]
